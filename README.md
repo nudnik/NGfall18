@@ -1,2 +1,2 @@
 # NGfall18
-Second of Angular Course
+Second repository of AngularJS Course. There were problems with the first one.
